@@ -1,4 +1,4 @@
-### Hi there 👋
+### Library Management System (Django (Python)) 
 
 <!--
 **shreyamulay/ShreyaMulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
